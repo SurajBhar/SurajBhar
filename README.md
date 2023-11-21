@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Computer Vision Enthusiast!
 ------------------------
 
-I am a mechatronics graduate student at the University of Siegen who is proficient in a wide range of programming languages, machine learning frameworks, and libraries. Currently, I am doing research in 3D Computer vision with Visual computing group at the University of Siegen. I have done bachelor's in Mechanical Engineering. Here is my contribution as a book chapter in "[Advances in Mechanical Engineering](https://link.springer.com/chapter/10.1007/978-981-15-0124-1_113)."
+I am a mechatronics graduate student at the University of Siegen who is proficient in a wide range of programming languages, machine learning frameworks, and libraries. Currently, I am doing research in Computer vision with the Perceptual User Interface Group at Fraunhofer IOSB. I have done bachelor's in Mechanical Engineering. Here is my contribution as a book chapter in "[Advances in Mechanical Engineering](https://link.springer.com/chapter/10.1007/978-981-15-0124-1_113)."
 
 * 🌍  I'm based in Siegen
 * ✉️  You can contact me at [suraj.unisiegen@gmail.com](mailto:suraj.unisiegen@gmail.com)
