@@ -1,13 +1,18 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Suraj Bhardwaj
 =================================================================================================================================
 
-**Data Scientist** | **Deep Learning Engineer** | **Computer Vision Specialist**
+**Data Scientist** | **AI Researcher** | **ML & Deep Learning Engineer**
 
 ---
 
-Welcome to my GitHub! I am an aspiring Data Scientist with a strong focus on deep learning and AI, diving into the latest advancements in computer vision and autonomous systems. My work includes self-supervised learning, adaptive HMI systems, real-time object detection, generative models and RAG pipelines, all aimed at impactful, real-world applications.
+Welcome to my GitHub! I am an aspiring Data Scientist with a strong focus on machine learning and deep learning, diving into the latest advancements in computer vision and autonomous systems.
 
-I hold an M.Sc. in Mechatronics from the University of Siegen and currently conduct research in Computer Vision with the Perceptual User Interface Group at Fraunhofer IOSB, Karlsruhe. My academic journey began with a Bachelor's in Mechanical Engineering, where I contributed to the field through a book chapter in "[Advances in Mechanical Engineering](https://link.springer.com/chapter/10.1007/978-981-15-0124-1_113)."
+**Professional Experience:**
+- Research Assistant (Computer Vision): Perceptual User Interface Group, Fraunhofer IOSB
+
+**Academic Background:**
+- M.Sc. in Mechatronics
+- B.Tech. in Mechanical Engineering
 
 * ✉️  Reach out at [suraj.unisiegen@gmail.com](mailto:suraj.unisiegen@gmail.com)
 ---
