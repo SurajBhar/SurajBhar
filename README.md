@@ -98,4 +98,10 @@ Welcome to my GitHub! I'm an AI Researcher with 2+ years of experience at the in
 
 ---
 
+## Most Used Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajBhar&layout=compact&theme=default&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 Thanks for visiting my profile! 🚀 Feel free to explore my repositories, connect, or collaborate on exciting AI/ML projects.
