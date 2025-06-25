@@ -36,8 +36,6 @@ I hold a Master’s degree in Mechatronics from the University of Siegen, German
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SurajBhar&show_icons=true&locale=en" alt="SurajBhar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhar&" alt="surajbhar" /></p>
-
 ---
 ## 🌐 Let's Connect
 
