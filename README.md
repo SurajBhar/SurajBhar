@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Bhardwaj</h1>
-<h3 align="center">Data Scientist • AI Engineer (Germany/EU)</h3>
+<h3 align="center">Data Science • AI/ML Engineering • Computer Vision/NLP/GenAI</h3>
 
 <p align="center">
   <a href="https://surajbhar.github.io/">Website</a> •
@@ -61,34 +61,21 @@ I’m a **Data Scientist / AI Engineer** focused on **reproducible experimentati
 ---
 
 ## 🧰 Tech I use often
-**Python • SQL • PyTorch • scikit-learn • FastAPI • Docker • Kubernetes • GitHub Actions • Azure/AWS • Linux**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-<details>
-  <summary><b>Badges</b></summary>
-  <br/>
-
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-</details>
-
----
-
-## 📊 GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=SurajBhar&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SurajBhar&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajBhar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🤝 Let’s connect
-If you're hiring for **Data Scientist / AI Engineer roles (Germany/EU)**, I’d love to connect.
+If you're hiring for **Data Scientist / AI Engineer roles**, I’d love to connect.
 
 - Website: https://surajbhar.github.io/  
 - LinkedIn: https://www.linkedin.com/in/bhardwaj-suraj
