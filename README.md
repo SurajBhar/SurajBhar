@@ -41,6 +41,7 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
 
 ---
 
+
 ## Tools & stack (at a glance)
 <table>
   <tr>
@@ -48,11 +49,17 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
     <td><img src="https://skillicons.dev/icons?i=py,cpp,ts,js,rust,bash&perline=10" alt="Languages" /></td>
     <td>Python-first • Strong engineering fundamentals</td>
   </tr>
+
   <tr>
     <td><b>ML / Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas,jupyter&perline=10" alt="ML/Data" /></td>
-    <td>Training • Evaluation • Experiment tracking</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=10" alt="ML/Data" />
+      <img src="https://cdn.simpleicons.org/polars" height="38" alt="Polars" />
+      <img src="https://cdn.simpleicons.org/databricks" height="38" alt="Databricks" />
+    </td>
+    <td>Modeling • experimentation • fast dataframes (Polars)</td>
   </tr>
+
   <tr>
     <td><b>LLM / GenAI</b></td>
     <td>
@@ -63,21 +70,27 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
     </td>
     <td>RAG • agents • embeddings • evaluation • tool calling</td>
   </tr>
+
   <tr>
     <td><b>Backend / APIs</b></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi,flask,nginx&perline=10" alt="Backend/APIs" /></td>
-    <td>Fast APIs • Auth • Async services</td>
+    <td>Fast APIs • integrations • production services</td>
   </tr>
+
   <tr>
     <td><b>Cloud / MLOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,linux&perline=10" alt="Cloud/MLOps" /></td>
-    <td>Deployments • CI/CD • IaC • Containers</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,linux&perline=10" alt="Cloud/MLOps" />
+    </td>
+    <td>Deployments • CI/CD • IaC</td>
   </tr>
+
   <tr>
     <td><b>Data / Infra</b></td>
     <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,kafka&perline=10" alt="Data/Infra" /></td>
-    <td>Storage • Streaming • Caching</td>
+    <td>Storage • streaming • caching</td>
   </tr>
+
   <tr>
     <td><b>Apps</b></td>
     <td>
@@ -85,12 +98,13 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
       <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="38" alt="Streamlit" />
       <img src="https://cdn.simpleicons.org/gradio/FF7C00" height="38" alt="Gradio" />
     </td>
-    <td>Demos • Internal tools • Prototypes that ship</td>
+    <td>Demos • internal tools • prototypes that ship</td>
   </tr>
+
   <tr>
     <td><b>Observability / Dev</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,vscode,postman,grafana,prometheus&perline=10" alt="Tools" /></td>
-    <td>Debuggability • Monitoring • Reliability</td>
+    <td>Monitoring • debugging • reliability</td>
   </tr>
 </table>
 
