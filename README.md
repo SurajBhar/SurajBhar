@@ -23,7 +23,7 @@
 ---
 
 ## About me
-I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on building **production-grade AI systems** that teams can trust:
+I’m an **AI/ML Engineer** based in **Germany**, focused on building **production-grade AI systems** that teams can trust:
 **reproducible experiments**, **measurable quality**, **robust deployment**, and **clear monitoring**.
 
 **Core strengths**
@@ -31,14 +31,6 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
 - **LLM systems (RAG + Agents):** retrieval quality, grounded responses, tool-using workflows, guardrails
 - **Multimodal CV:** representation learning, practical pipelines for perception tasks
 - **MLOps / LLMOps:** CI/CD, containers, infra as code, monitoring and iteration loops
-
----
-
-## How I work
-- **Evidence first:** define success metrics, build evaluation harnesses, track regressions
-- **Systems mindset:** latency/cost constraints, failure modes, observability, safe fallbacks
-- **Clean delivery:** reproducible environments, tests, CI, documentation, simple interfaces
-
 ---
 
 
@@ -46,7 +38,7 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,cpp,ts,js,rust,bash&perline=10" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=py,cpp,ts,js,bash&perline=10" alt="Languages" /></td>
     <td>Python-first • Strong engineering fundamentals</td>
   </tr>
 
@@ -63,7 +55,6 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
   <tr>
     <td><b>LLM / GenAI</b></td>
     <td>
-      <img src="https://cdn.simpleicons.org/openai" height="38" alt="OpenAI" />
       <img src="https://cdn.simpleicons.org/huggingface" height="38" alt="Hugging Face" />
       <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="38" alt="LangChain" />
       <img src="https://cdn.simpleicons.org/ollama" height="38" alt="Ollama" />
@@ -73,7 +64,7 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
 
   <tr>
     <td><b>Backend / APIs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,nginx&perline=10" alt="Backend/APIs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask&perline=10" alt="Backend/APIs" /></td>
     <td>Fast APIs • integrations • production services</td>
   </tr>
 
@@ -87,7 +78,7 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
 
   <tr>
     <td><b>Data / Infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,kafka&perline=10" alt="Data/Infra" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&perline=10" alt="Data/Infra" /></td>
     <td>Storage • streaming • caching</td>
   </tr>
 
@@ -113,19 +104,12 @@ I’m a **Data Scientist / AI/ML Engineer** based in **Germany**, focused on bui
 ## Featured projects
 | Project | What it is | Stack | Link |
 |---|---|---|---|
+| 🔎 Technical Content Writer Agent | Streamlit + LangGraph application for generating technical blog posts from a short prompt or topic. | Streamlit, LangGraph, Python | https://github.com/SurajBhar/deep-blog-agent |
+| 🔎 Personal Assistant (Strands Multi-Agent) | AI Agent "agent-as-tool" pattern | Sqlite, AWS, Strands, Perplexity MCP Server, Amazon Bedrock, Python | https://github.com/SurajBhar/personal_assistant_agent |
 | 🔎 RAG on Azure (FastAPI) | Practical RAG service design for grounded answers | FastAPI, Azure, Search/RAG | https://github.com/BharAI-Lab/rag_azure_fastapi |
 | 🧠 RAG with NVIDIA NIM | Lightweight doc-chat app workflow | NIM, Python, RAG | https://github.com/SurajBhar/rag_nim |
 | 📊 Tabular ML Prediction | Pipeline: prep → modeling → evaluation | Python, scikit-learn | https://github.com/SurajBhar/hrprediction |
 | 🎬 Movie Sentiment Prediction | Text classification with clear preprocessing + eval | NLP, Python | https://github.com/SurajBhar/moviesentiment |
-| 🧪 Bayesian Optimization | Practical experiments + optimization workflows | Python | https://github.com/SurajBhar/bayesian_opt |
-| 🗄️ SQL Analytics Project | SQL + analytics case study | SQL, Python | https://github.com/SurajBhar/data_science_sql_project |
-| 🎓 Academic (CV) | Master’s thesis & studies repositories | CV, Python | https://github.com/SurajBhar/masterarbeit_sb • https://github.com/SurajBhar/studienarbeit_repository |
-
----
-
-## Analytics & visualization
-- **Tableau — Amazon Sales Analysis:**  
-  https://public.tableau.com/app/profile/suraj.bhardwaj2195/viz/Amz_Dashboard_22Sep/ItemAnalysis
 
 ---
 
